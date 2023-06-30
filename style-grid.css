@@ -1,0 +1,39 @@
+* {
+    margin: 4px;
+    padding: 3px;
+}
+
+body {
+    background-color: #ffffff;
+}
+.container {
+    padding: 15px;
+    display: grid;
+    grid-template-columns: repeat(5,20%);
+}
+
+#box1 {
+    background-color: #177df1 ;
+    width: 200px;
+    height: 200px;
+    border: 5px solid #000000;
+}
+
+#box2 {
+    background-color: #f11717;
+    width: 200px;
+    height: 200px;
+    border: 5px solid #000000;
+}
+#box3 {
+    background-color: #177df1 ;
+    width: 200px;
+    height: 200px;
+    border: 5px solid #000000;
+}
+#box4 {
+    background-color: #f11717;
+    width: 200px;
+    height: 200px;
+    border: 5px solid #000000;
+}
